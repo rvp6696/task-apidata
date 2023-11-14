@@ -1,0 +1,34 @@
+{
+    "tasks": [
+      {
+        "tasktitle": "Monthly Review",
+        "taskdate": "2023-11-30",
+        "tasktime": "15:30",
+        "taskdesc": "Monthly Review meeting with Client.",
+        "taskpriority": "High",
+        "taskcategory": "Meetings",
+        "taskstatus": "ON-HOLD",
+        "id": 1
+      },
+      {
+        "tasktitle": "One on One",
+        "taskdate": "2023-11-23",
+        "tasktime": "17:30",
+        "taskdesc": "One on One meeting with manager",
+        "taskpriority": "Medium",
+        "taskcategory": "Meetings",
+        "taskstatus": "OPEN",
+        "id": 2
+      },
+      {
+        "tasktitle": "Code Review Demo",
+        "taskdate": "2023-12-07",
+        "tasktime": "11:30",
+        "taskdesc": "Code Review Demo meeting with SLTs.",
+        "taskpriority": "Medium",
+        "taskcategory": "Meetings",
+        "taskstatus": "OPEN",
+        "id": 3
+      }
+    ]
+  }
